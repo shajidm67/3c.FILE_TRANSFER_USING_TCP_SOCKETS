@@ -1,7 +1,7 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 
 
-## Name : Mohameds ahajid a
+## Name : Mohameds shajid a
 ## Register No : 212225040243
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
