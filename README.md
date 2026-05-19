@@ -1,8 +1,8 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 
 
-## Name : ASTLE JOE A S
-## Register No : 212224240019
+## Name : Mohameds ahajid a
+## Register No : 212225040243
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
